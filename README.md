@@ -1,3 +1,13 @@
+## Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-0F172A?style=flat-square&logo=csharp&logoColor=9B4F96)
+![.NET](https://img.shields.io/badge/.NET-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0F172A?style=flat-square&logo=dotnet&logoColor=512BD4)
+![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=swagger&logoColor=85EA2D)
+![Swagger](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-0F172A?style=flat-square&logo=swagger&logoColor=85EA2D)
+
+**Focus:** incident management, ticket triage, SLA monitoring, and operational support workflows.
+
 # Incident Support Ops Platform
 
 Support-focused portfolio project built with ASP.NET Core Web API.
